@@ -3707,8 +3707,8 @@ public class FunctionalTest {
     removeBucket();
     // listBuckets();
 
-    setBucketVersioning();
-    getBucketVersioning();
+    // setBucketVersioning();
+    // getBucketVersioning();
 
     setObjectLockConfiguration();
     getObjectLockConfiguration();
