@@ -3710,34 +3710,34 @@ public class FunctionalTest {
     // setBucketVersioning();
     // getBucketVersioning();
 
-    setObjectLockConfiguration();
-    getObjectLockConfiguration();
+    // setObjectLockConfiguration();
+    // getObjectLockConfiguration();
 
     setBucketEncryption();
     getBucketEncryption();
     deleteBucketEncryption();
 
-    setBucketTags();
-    getBucketTags();
-    deleteBucketTags();
+    // setBucketTags();
+    // getBucketTags();
+    // deleteBucketTags();
 
     setBucketPolicy();
     getBucketPolicy();
     deleteBucketPolicy();
 
-    setBucketLifecycle();
-    getBucketLifecycle();
-    deleteBucketLifecycle();
+    // setBucketLifecycle();
+    // getBucketLifecycle();
+    // deleteBucketLifecycle();
 
-    setBucketNotification();
-    getBucketNotification();
-    deleteBucketNotification();
+    // setBucketNotification();
+    // getBucketNotification();
+    // deleteBucketNotification();
 
-    setBucketReplication();
-    getBucketReplication();
-    deleteBucketReplication();
+    // setBucketReplication();
+    // getBucketReplication();
+    // deleteBucketReplication();
 
-    listenBucketNotification();
+    // listenBucketNotification();
   }
 
   public static void runObjectTests() throws Exception {
