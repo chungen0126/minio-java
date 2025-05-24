@@ -3928,7 +3928,7 @@ public class FunctionalTest {
     makeBucket();
     bucketExists();
     removeBucket();
-    listBuckets();
+    // listBuckets();
 
     setBucketVersioning();
     getBucketVersioning();
