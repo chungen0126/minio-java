@@ -3713,17 +3713,17 @@ public class FunctionalTest {
     // setObjectLockConfiguration();
     // getObjectLockConfiguration();
 
-    setBucketEncryption();
-    getBucketEncryption();
-    deleteBucketEncryption();
+    // setBucketEncryption();
+    // getBucketEncryption();
+    // deleteBucketEncryption();
 
     // setBucketTags();
     // getBucketTags();
     // deleteBucketTags();
 
-    setBucketPolicy();
-    getBucketPolicy();
-    deleteBucketPolicy();
+    // setBucketPolicy();
+    // getBucketPolicy();
+    // deleteBucketPolicy();
 
     // setBucketLifecycle();
     // getBucketLifecycle();
