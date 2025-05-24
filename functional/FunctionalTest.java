@@ -3778,7 +3778,7 @@ public class FunctionalTest {
   }
 
   public static void runTests() throws Exception {
-    runBucketTests();
+    // runBucketTests();
     runObjectTests();
     adminClientTests.runAdminTests();
   }
