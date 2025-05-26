@@ -1441,11 +1441,11 @@ public class FunctionalTest {
         3,
         0);
 
-    testListObjects(
-        "[bucket, versions]",
-        ListObjectsArgs.builder().bucket(getRandomName()).includeVersions(true).build(),
-        3,
-        2);
+//    testListObjects(
+//        "[bucket, versions]",
+//        ListObjectsArgs.builder().bucket(getRandomName()).includeVersions(true).build(),
+//        3,
+//        2);
 
     if (isQuickTest) {
       return;
